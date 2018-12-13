@@ -3,6 +3,7 @@
 Demo code for the talk Dependent Types in Haskell in Hong Kong Functional
 Programming meetup.
 
-- Write simple dependently typed programs in Haskell and Idris.
-- Introduction to singletons library.
+- How to write dependently typed programs in Haskell and Idris respectively
+  for simple comparison.
+- A tour of the singletons library.
 - Introduction to Dependent Haskell.
